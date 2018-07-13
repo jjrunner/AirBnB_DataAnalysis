@@ -30,9 +30,9 @@ All of the analysis can be found in the notebook.  The CRISP-DM process was used
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/a-comparison-of-airbnb-homes-seattle-vs-boston-cdc0df2cfcd7).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to AirBnB for the data.  You can find the Licensing for the data and other descriptive information for the Boston data at the Kaggle link available [here](https://www.kaggle.com/airbnb/boston) and for the Seattle data available [here](https://www.kaggle.com/airbnb/seattle).  
+Must give credit to AirBnB and Kaggle for the data.  You can find the Licensing for the data and other descriptive information for the [Boston data on Kaggle](https://www.kaggle.com/airbnb/boston) and for the [Seattle data](https://www.kaggle.com/airbnb/seattle).  
 
