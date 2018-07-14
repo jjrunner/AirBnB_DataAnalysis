@@ -40,7 +40,7 @@ It is worth noting here that the reviews and calendar files did not have overlap
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/a-comparison-of-airbnb-homes-seattle-vs-boston-cdc0df2cfcd7).
+The main findings of the code can be found at the [blog post available here](https://medium.com/@josh_2774/a-comparison-of-airbnb-homes-seattle-vs-boston-cdc0df2cfcd7).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
